@@ -18,3 +18,4 @@
 
 ## BOJ Tier 🥇
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hj0816hj)](https://solved.ac/hj0816hj)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hj0816hj)](https://solved.ac/hj0816hj)
