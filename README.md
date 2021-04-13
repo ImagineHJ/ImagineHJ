@@ -6,15 +6,9 @@
 * Junior Software Developer
 
 ### Tech Stack
-#### Programming Languages
 <img src=https://img.shields.io/badge/-C%2FC%2B%2B-lightgrey /> <img src=https://img.shields.io/badge/-Python-lightgrey /> <img src=https://img.shields.io/badge/-Java-lightgrey /> <img src=https://img.shields.io/badge/-C%23-lightgrey />
 
-
-
-#### Frameworks
-
-
-#### Java
+<img src=https://img.shields.io/badge/-Django-blue /><img src=https://img.shields.io/badge/-Unity-blue />
 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC9mnfNKgLvOO89HUWrrZSSQ)](https://www.youtube.com/channel/UC9mnfNKgLvOO89HUWrrZSSQ)
 
