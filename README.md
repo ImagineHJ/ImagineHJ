@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Imagination&fontSize=90&fontColor=00000)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Imagination&fontSize=90&fontColor=99999)
 
 
 ### About me
