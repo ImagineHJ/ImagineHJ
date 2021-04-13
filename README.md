@@ -3,7 +3,21 @@
 
 ### About me
 * Studying American Culture/Computer Science in Sogang Univ.
+* Junior Software Developer
+
+### Tech Stack
+#### Programming Languages
+* C/C++
+* Python
+* Java
+* C#
+
+https://img.shields.io/badge/-Java-yellow
+
+#### Frameworks
 * 
+
+#### Java
 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC9mnfNKgLvOO89HUWrrZSSQ)](https://www.youtube.com/channel/UC9mnfNKgLvOO89HUWrrZSSQ)
 
