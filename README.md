@@ -7,12 +7,12 @@
 
 ### Tech Stack
 #### Programming Languages
-<img src=https://img.shields.io/badge/-C%2FC%2B%2B-lightgrey /> <img src=https://img.shields.io/badge/-Java-lightgrey />
+<img src=https://img.shields.io/badge/-C%2FC%2B%2B-lightgrey /> <img src=https://img.shields.io/badge/-Python-lightgrey /> <img src=https://img.shields.io/badge/-Java-lightgrey /> <img src=https://img.shields.io/badge/-C#-lightgrey />
 
 
 
 #### Frameworks
-* 
+
 
 #### Java
 
