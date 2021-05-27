@@ -20,7 +20,6 @@
 ## Statistics
 [![Imagine's GitHub stats](https://github-readme-stats.vercel.app/api?username=ImagineHJ)](https://github.com/ImagineHJ)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImagineHJ&layout=compact)](https://github.com/ImagineHJ)
 
 
 ## BOJ Tier 🥇
