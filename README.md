@@ -3,7 +3,7 @@
 
 ## About me 🤗
 * Studying American Culture/Computer Science in Sogang Univ.
-* Junior Software Developer
+* Junior Software Engineer learning Back-end Development
 * Korean, currently living in Seoul
 
 
