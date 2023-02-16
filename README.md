@@ -37,6 +37,6 @@
 
 ## Statistics
 <p align="center">
-  <img src='https://github-readme-stats.vercel.app/api?username=ImagineHJ&hide=stars' width="490px"/>
-  <img src='http://mazassumnida.wtf/api/v2/generate_badge?boj=hj0816hj' width="377px"/>
+  <img src='https://github-readme-stats.vercel.app/api?username=ImagineHJ&hide=stars' width="400px"/>
+  <img src='http://mazassumnida.wtf/api/v2/generate_badge?boj=hj0816hj' width="310px"/>
 </p>
