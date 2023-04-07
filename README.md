@@ -2,11 +2,11 @@
 
 
 ## About me 🤗
-* Studying American Culture/Computer Science in Sogang Univ.
+* Studying American Culture/Computer Science
 * Junior Software Engineer learning Back-end Development
 * Korean, currently living in Seoul
 
-## 🛠 Tech Stack 🛠
+## Technologies I am interested in... 🛠
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"></a> &nbsp
@@ -29,11 +29,6 @@
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSONWebTokens&logoColor=white"/></a> &nbsp
 </p>
 
-
-
-
-## Interests 💖
-* I run a YouTube vlog channel! => [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC9mnfNKgLvOO89HUWrrZSSQ)](https://www.youtube.com/channel/UC9mnfNKgLvOO89HUWrrZSSQ)
 
 ## Statistics
 <p align="center">
