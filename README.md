@@ -2,8 +2,8 @@
 
 
 ## About me 🤗
-* Studying American Culture/Computer Science
-* Junior Software Engineer learning Back-end Development
+* Working in Samsung Electronics HQ
+* Majored American Culture/Computer Science
 * Korean, currently living in Seoul
 
 ## Technologies I am interested in... 🛠
